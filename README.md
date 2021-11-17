@@ -2,7 +2,7 @@
 ### - This Code is written in "C++" and based on the "openpose" library, so you need to setup the openpose enviroment before you run this code
 #### - You can find the repo of the openpose [Here](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 ----------------------------------
-### I attached the presentation file that i used for this project in case someone needs it
+### [Here](https://docs.google.com/presentation/d/1TjjxTctxQaoWI28SeY8l0qwlTq-AiWXv/edit?usp=sharing&ouid=116579051541464863394&rtpof=true&sd=true) is the presentation file that i used for this project in case someone needs it
 
 ### This is a demo video of the final project
 
